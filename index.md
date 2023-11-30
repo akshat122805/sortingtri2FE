@@ -23,6 +23,7 @@ The prevailing consensus in today's internet landscape is that data-driven platf
 By integrating Filecoin into Krypton's storage system, Krypton can benefit from a competitive storage marketplace, resulting in more efficient and cost-effective storage solutions. Additionally, Filecoin's native token (FIL) can be used to incentivize users to contribute their spare storage resources to the network, further strengthening the decentralized nature of Krypton's search engine.
 Filecoin's content-addressed storage system ensures that data is securely and redundantly stored across multiple nodes in the network. As users contribute their storage resources, the network becomes more resilient to potential failures or censorship attempts. This approach aligns with Krypton's core principles of privacy, decentralization, and open access to information.
 
+In addition, as the size of the web grows, Krypton's decentralized web crawling and indexing system is designed to scale accordingly. New nodes can be added to the network to accommodate increased web content, and the existing workload can be dynamically rebalanced among nodes to ensure optimal performance. Load balancing strategies, such as consistent hashing or rendezvous hashing, can be implemented to distribute the workload evenly across the network, minimizing bottlenecks and maximizing resource utilization.
 
 
 
