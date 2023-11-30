@@ -20,5 +20,5 @@ This website presents an architectural overview and detailed design of the Krypt
 
 The prevailing consensus in today's internet landscape is that data-driven platforms amass enormous profits and influence within the technology and retail sectors. The centralized nature of the internet will inevitably be challenged as decentralized networks with more advanced capabilities emerge. Web3 has long been envisioned as the successor to Web2 [4], offering greater privacy, security, and peer-to-peer interactions. Krypton is set to become one of the pioneering applications for Web3, serving as a platform and host akin to Google's role in the Web2 era. This innovative search engine will employ algorithms similar to those used by Google, while integrating the cutting-edge technology of blockchain to enhance its capabilities.
 
-Inspired by Ilya Zhitomirskiy, co-founder of Diaspora, a decentralized social networking platform that prioritized user privacy and data ownership. Zhirtomirsky’s vision of a decentralized internet, challenging the profit-driven model of traditional social media platforms, has inspired the development of decentralized technology projects like Krypton. Zhitomirskiy's legacy reminds us that technology can be a tool for promoting social justice and creating a more democratic and equitable world.
+
 
